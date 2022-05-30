@@ -1,0 +1,15 @@
+Aprire un pacchetto di figurine
+
+
+1)  per figurina nel pacchetto:
+    (scorro il pacchetto) 
+    
+    2)  se figurina si trova nella lista_figurine_possedute:
+
+            3a) aggiungo la figurina alla lista_doppioni 
+                scorro alla figurina successiva
+        
+        altrimenti:
+
+            3b) aggiungo la figurina alla lista_figurine_possedute
+                scorro alla figurina successiva
